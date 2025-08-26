@@ -14,6 +14,10 @@
             <option value="$PROJECT_DIR$/core/network" />
             <option value="$PROJECT_DIR$/core/network/api" />
             <option value="$PROJECT_DIR$/core/network/impl" />
+            <option value="$PROJECT_DIR$/features" />
+            <option value="$PROJECT_DIR$/features/auth" />
+            <option value="$PROJECT_DIR$/features/auth/api" />
+            <option value="$PROJECT_DIR$/features/auth/impl" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -23,3 +23,5 @@ rootProject.name = "e-commerce_android"
 include(":app")
 include(":core:network:api")
 include(":core:network:impl")
+include(":features:auth:api")
+include(":features:auth:impl")
