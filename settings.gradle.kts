@@ -22,10 +22,10 @@ dependencyResolutionManagement {
 rootProject.name = "e-commerce_android"
 include(":app")
 
-include(":core:design_system")
 include(":core:network")
 include(":core:utils")
 include(":core:database")
+include(":core:design_system")
 
 include(":features:auth")
 include(":features:dashboard")
